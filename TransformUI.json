@@ -1,0 +1,10 @@
+{
+  "type": "plugin",
+  "plugin_name": "TransformUI",
+  "plugin_description": "welcome to marshmallow, darkened!",
+  "framework_location": "E:\\Android\\sdk\\android-sdk\\platforms\\android-22\\android.jar",
+  "package_name": "com.aditya.TransformUI",
+  "overlays": [
+    "General"
+  ]
+}
