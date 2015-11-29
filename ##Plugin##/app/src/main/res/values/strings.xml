@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NormalOverlays" />
+    <string name="PluginVersion">3</string>
+    <string name="StyleSpecificOverlays" />
+    <string name="Colors" />
+    <string name="ThemeDeveloper">Aditya Gupta</string>
+    <string name="ThemeWhatsNew">"TransformUI is a Layers/RRO-Theme which is based
+        on the famous series by Michael Bay,"Transformers".In this theme we are
+        going to use different piece of colors used by the Characters in that Series.
+
+
+    </string>
+    <string name="ThemeDescription">"It’s been an honor serving with you all."</string>
+    <string name="ThemeName">Transform UI</string>
+</resources>
